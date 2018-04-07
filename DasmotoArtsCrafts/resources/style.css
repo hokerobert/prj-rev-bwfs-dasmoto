@@ -1,5 +1,8 @@
+body {
+ font-family: Helvetica; 
+}
+
 .header h1{
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -13,7 +16,6 @@
 }
 
 .brushes h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -21,7 +23,6 @@
 }
 
 .frames h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -29,7 +30,6 @@
 }
 
 .paint h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -37,17 +37,14 @@
 }
 
 h3 {
-  font-family: Helvetica;
   font-size: 22px;
 }
 
 p {
-  font-family: Helvetica;
   font-size: 18px;
 }
 
 span {
-  font-family: Helvetica;
   font-weight: bold;
   color: blue;
 }
